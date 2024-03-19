@@ -7,7 +7,6 @@ then run client by ./client
 
 
 
-
 #include<stdio.h>
 #include<sys/types.h>
 #include<netinet/in.h>
