@@ -1,4 +1,4 @@
-#include<stdio.h> 
+#include<stdio.h>
 
 int main(){
     int incoming, outgoing, buck_size, n, store = 0;
