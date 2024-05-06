@@ -1,4 +1,4 @@
-#include<time.h>
+ #include<time.h>
 #include<stdio.h>
 #include<stdlib.h>
 #include<sys/socket.h>
