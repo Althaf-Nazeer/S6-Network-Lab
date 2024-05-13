@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int costMatrix[20][20], n;
 
 struct routers
